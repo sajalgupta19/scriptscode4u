@@ -9,7 +9,7 @@
 <body>
 
  <!--Need Internet Connection-->
- <iframe src="http://allinworld99.blogspot.com"></iframe>
+ <iframe src="http://github.com"></iframe>
 
 </body>
 
