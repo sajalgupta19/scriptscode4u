@@ -1,5 +1,5 @@
 
-CodeColor(document.getElementByClass("codecolor1"));
+CodeColor(document.getElementById("codecolor1"));
 
 function CodeColor(elmnt, mode) {
   var lang = (mode || "html");
