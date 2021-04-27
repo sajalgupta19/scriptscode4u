@@ -6,7 +6,7 @@ function CodeColor(elmnt, mode) {
   var elmntObj = (document.getElementById(elmnt) || elmnt);
   var elmntTxt = elmntObj.innerHTML;
   var tagcolor = "#8e44ad";
-  var tagnamecolor = "#3498db";
+  var tagnamecolor = "skyblue";
   var attributecolor = "#ff7979";//white
   var attributevaluecolor = "skyblue";
   var commentcolor = "white";
