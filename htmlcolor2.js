@@ -9,7 +9,7 @@ function CodeColor(elmnt, mode) {
   var tagnamecolor = "#3498db";
   var attributecolor = "#ff7979";//white
   var attributevaluecolor = "skyblue";
-  var commentcolor = "green";
+  var commentcolor = "white";
   var cssselectorcolor = "#bdc3c7";//white
   var csspropertycolor = "#3498db";
   var csspropertyvaluecolor = "grey";
