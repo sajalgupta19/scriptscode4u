@@ -13,7 +13,7 @@ function CodeColor(elmnt, mode) {
   var cssselectorcolor = "79f2be";//lightergreen
   var csspropertycolor = "#3498db";
   var csspropertyvaluecolor = "skyblue";
-  var cssdelimitercolor = "white";
+  var cssdelimitercolor = "grey";
   var cssimportantcolor = "#3498db";  
   var jscolor = "black";
   var jskeywordcolor = "mediumblue";
