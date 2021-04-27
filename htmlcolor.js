@@ -12,7 +12,7 @@ function CodeColor(elmnt, mode) {
   var commentcolor = "#7f8c8d"; //darkgrey
   var cssselectorcolor = "79f2be";//lightergreen
   var csspropertycolor = "#3498db";
-  var csspropertyvaluecolor = "14e19e";
+  var csspropertyvaluecolor = "skyblue";
   var cssdelimitercolor = "#7ed6df";
   var cssimportantcolor = "#3498db";  
   var jscolor = "black";
